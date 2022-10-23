@@ -24,6 +24,10 @@ const Home = () => {
               <h1>amount</h1>
               <span>icon</span>
             </div>
+            <div className="home-accaunt-card">
+              <h1>amount</h1>
+              <span>icon</span>
+            </div>
           </div>
         </div>
       </div>
